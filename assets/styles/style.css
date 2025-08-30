@@ -310,7 +310,7 @@ form .card-img{
     margin:auto;
 }
 
-.rest-agreement *{
+.res-agreement *{
     width:auto;
 
 }
@@ -361,7 +361,7 @@ form #btn-send{
     color:#c7a17a;
 }
 
-.footer td, th{
+.footer, td, th{
     color:#ffffff;
     font-family:'Raleway' , sans-serif;
     text-shadow:3px 3px 6px #312a26;
@@ -394,6 +394,6 @@ form #btn-send{
 .social-widget3{
     margin-right:0;
 }
-.social-wigdets img{
+.social-wigdets, img{
     width:1.5em;
 }
